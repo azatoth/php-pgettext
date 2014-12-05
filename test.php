@@ -2,6 +2,7 @@
 include_once("pgettext.php");
 $domain = 'messages';
 $directory = dirname(__FILE__);
+putenv("LANGUAGE=");
 $locale ="sv_SE.utf8";
 setlocale( LC_MESSAGES, $locale);
 bindtextdomain($domain, $directory);

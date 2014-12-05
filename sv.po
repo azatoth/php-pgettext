@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: test 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-08-11 02:57+0200\n"
+"POT-Creation-Date: 2014-12-05 11:59+0100\n"
 "PO-Revision-Date: 2011-08-11 02:58+0200\n"
 "Last-Translator: Carl Fürstenberg <azatoth@azaboxen.carl>\n"
 "Language-Team: Swedish\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: test.php:12
+#: test.php:13
 #, php-format
 msgctxt "body"
 msgid "One heart\n"
@@ -26,7 +26,7 @@ msgid_plural "%d hearts\n"
 msgstr[0] "Ett hjärta\n"
 msgstr[1] "%d hjärtan\n"
 
-#: test.php:13
+#: test.php:14
 #, php-format
 msgctxt "place"
 msgid "One heart\n"
@@ -34,12 +34,12 @@ msgid_plural "%d hearts\n"
 msgstr[0] "Ett centrum\n"
 msgstr[1] "%d centrum\n"
 
-#: test.php:15
+#: test.php:16
 msgctxt "door"
 msgid "Open\n"
 msgstr "Öppna\n"
 
-#: test.php:16
+#: test.php:17
 msgctxt "book"
 msgid "Open\n"
 msgstr "Slå upp\n"
