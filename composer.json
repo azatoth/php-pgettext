@@ -1,7 +1,7 @@
 {
     "name": "azatoth/php-pgettext",
     "description": "Extension of gettext functions for PHP like pgettext, dpgettext, etc.",
-    "keywords": ["library"],
+    "keywords": ["library", "pgettext", "gettext"],
     "homepage": "https://github.com/azatoth/php-pgettext",
     "type": "library",
     "license": "MIT",
@@ -14,6 +14,7 @@
         "php": ">=5.3.0",
         "ext-gettext": "*"
     },
+    "bin": ["php-xgettext"],
     "autoload": {
         "files": ["pgettext.php"]
     }
